@@ -5,9 +5,23 @@ import android.os.Bundle;
 
 public class LoginActivity extends AppCompatActivity {
 
+    //explicit
+    private MyManage objMyManage;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
+        //connected Database
+        objMyManage = new MyManage(this);
+
+        //Test Add Value
+        testAddValue();
+
+    } //Main Method
+
+    private void testAddValue() {
+        objMyManage.addUser("user", "pass", "name");
     }
-}
+} // Main class
