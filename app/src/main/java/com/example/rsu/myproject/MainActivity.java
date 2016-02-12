@@ -1,6 +1,7 @@
 package com.example.rsu.myproject;
 
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -28,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
         //Request Database
         objMyManage = new MyManage(this);
+
+        //Delete All SQLite
+        deleteAllSQLite();
 
         imvmap.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -65,6 +69,13 @@ public class MainActivity extends AppCompatActivity {
 
 
     }//Enn of onCreate
+
+    private void deleteAllSQLite() {
+        SQLiteDatabase objSqLiteDatabase = openOrCreateDatabase(MyOpenHelper.database_name,
+                MODE_PRIVATE, null);
+        objSqLiteDatabase.delete(MyManage.table_major, null, null);
+        objSqLiteDatabase.delete(MyManage.table_user, null, null);
+    }
 
     public void clickLoginMain(View view) {
         startActivity(new Intent(MainActivity.this,LoginActivity.class));

@@ -39,6 +39,26 @@ public class MyManage {
 
     } //Constuctor
 
+    public long addMajor(String strCategory,
+                         String strNameMajor,
+                         String strWeb,
+                         String strImage,
+                         String strDetail,
+                         String strLat,
+                         String strLng) {
+
+        ContentValues objContentValues = new ContentValues();
+        objContentValues.put(column_Category,strCategory);
+        objContentValues.put(column_NameMajor,strNameMajor);
+        objContentValues.put(column_Web,strWeb);
+        objContentValues.put(column_Image,strImage);
+        objContentValues.put(column_Detail,strDetail);
+        objContentValues.put(column_Lat,strLat);
+        objContentValues.put(column_Lng,strLng);
+
+        return writeSqLiteDatabase.insert(table_major,null,objContentValues);
+    }
+
     public long addUser(String strUser,
                         String strPassword,
                         String strName) {
