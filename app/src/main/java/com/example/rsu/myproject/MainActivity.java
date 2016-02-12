@@ -66,5 +66,9 @@ public class MainActivity extends AppCompatActivity {
 
     }//Enn of onCreate
 
+    public void clickLoginMain(View view) {
+        startActivity(new Intent(MainActivity.this,LoginActivity.class));
+    }
+
 
 }// End of Main
