@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.ActionBar;
-import android.telecom.Call;
+//import android.telecom.Call;
 import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -26,7 +26,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import static android.telecom.Call.*;
+//import static android.telecom.Call.*;
 import static com.example.rsu.myproject.R.id.nav_science;
 import static com.example.rsu.myproject.R.id.showTitle;
 import static com.example.rsu.myproject.R.id.start;
