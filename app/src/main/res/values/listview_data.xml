@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //-----Buildding-------//
+    <string-array name="my_image_array">
+
+        <item>@drawable/build_long1</item>
+        <item>@drawable/build_long2</item>
+        <item>@drawable/build_long3</item>
+        <item>@drawable/build_long4</item>
+        <item>@drawable/build_long4</item>
+        <item>@drawable/build_long4</item>
+        <item>@drawable/build_long5</item>
+        <item>@drawable/build_long6</item>
+        <item>@drawable/build_long7</item>
+        <item>@drawable/build_long8</item>
+        <item>@drawable/build9</item>//10
+        <item>@drawable/build_long10</item>
+        <item>@drawable/build_long11</item>
+        <item>@drawable/build_long12</item>
+        <item>@drawable/build_long12_1</item>
+        <item>@drawable/build_long14</item>
+        <item>@drawable/build_long15</item>
+        <item>@drawable/build_long16</item>
+        <item>@drawable/musichall_long</item>
+        <item>@drawable/build_long18</item>
+        <item>@drawable/patana_long</item>
+
+    </string-array>
+
+    <string-array name="my_title_array">
+        <item>@string/title_build1</item>
+        <item>@string/title_build2</item>
+        <item>@string/title_build3</item>
+        <item>@string/title_build4</item>
+        <item>@string/title_build4_1</item>
+        <item>@string/title_build4_2</item>
+        <item>@string/title_build5</item>
+        <item>@string/title_build6</item>
+        <item>@string/title_build7</item>
+        <item>@string/title_build8</item>
+        <item>@string/title_build9</item>//10
+        <item>@string/title_build10</item>
+        <item>@string/title_build11</item>
+        <item>@string/title_build12</item>
+        <item>@string/title_build12_1</item>
+        <item>@string/title_build14</item>
+        <item>@string/title_build15</item>
+        <item>@string/title_build16</item>
+        <item>@string/title_buildMusicHall</item>
+        <item>@string/title_buildGuan</item>
+        <item>@string/title_buildPatana</item>
+
+
+
+    </string-array>
+
+    <string-array name="my_string_array">
+        <item>@string/snippet_build1</item>
+        <item>@string/snippet_build2</item>
+        <item>@string/snippet_build3</item>
+        <item>@string/snippet_build4</item>
+        <item>@string/snippet_build4_1</item>
+        <item>@string/snippet_build4_2</item>
+        <item>@string/snippet_build5</item>
+        <item>@string/snippet_build6</item>
+        <item>@string/snippet_build7</item>
+        <item>@string/snippet_build8</item>
+        <item>@string/snippet_build9</item>//10
+        <item>@string/snippet_build10</item>
+        <item>@string/snippet_build11</item>
+        <item>@string/snippet_build12</item>
+        <item>@string/snippet_build12_1</item>
+        <item>@string/snippet_build14</item>
+        <item>@string/snippet_build15</item>
+        <item>@string/snippet_build16</item>
+        <item>@string/snippet_buildMusicHall</item>
+        <item>@string/snippet_buildGuan</item>
+        <item>@string/snippet_buildPatana</item>
+
+    </string-array>
+
+    //----Park------//
+    <string-array name="my_image_array_park">
+        <item>@drawable/park15_long</item>
+        <item>@drawable/park15_long</item>
+        <item>@drawable/park12_long</item>
+    </string-array>
+
+    <string-array name="my_string_array_park">
+        <item>@string/title_park15</item>
+        <item>@string/title_parksun</item>
+        <item>@string/title_park12</item>
+
+    </string-array>
+
+
+    //----Food------//
+
+    <string-array name="my_image_array_food">
+        <item>@drawable/food9</item>
+        <item>@drawable/food10</item>
+    </string-array>
+
+    <string-array name="my_string_array_food">
+        <item>@string/title_food</item>
+        <item>@string/title_food10</item>
+    </string-array>
+
+    //------Cafe---------//
+    <string-array name="my_image_array_cafe">
+        <item>@drawable/cafe_long1</item>
+        <item>@drawable/build_long2_1</item>
+        <item>@drawable/build_long3</item>
+        <item>@drawable/cafe_long4</item>
+        <item>@drawable/build_long7</item>
+        <item>@drawable/cafe_long8</item>
+        <item>@drawable/cafe_long15_1</item>
+        <item>@drawable/build_long11</item>
+        <item>@drawable/build_long12_1</item>
+        <item>@drawable/cafe_long15</item>
+    </string-array>
+
+    <string-array name="my_string_array_cafe">
+        <item>@string/cafe1</item>
+        <item>@string/cafe2</item>
+        <item>@string/cafe3</item>
+        <item>@string/cafe4</item>
+        <item>@string/cafe5</item>
+        <item>@string/cafe6</item>
+        <item>@string/cafe7</item>
+        <item>@string/cafe8</item>
+        <item>@string/cafe9</item>
+        <item>@string/cafe10</item>
+
+    </string-array>
+
+    //----Copy-----//
+    <string-array name="my_image_array_copy">
+        <item>@drawable/build_long3</item>
+        <item>@drawable/build_long4</item>
+        <item>@drawable/build_long5</item>
+        <item>@drawable/build_long7</item>
+        <item>@drawable/build9</item>
+        <item>@drawable/build_long15</item>
+    </string-array>
+
+    <string-array name="my_string_array_copy">
+        <item>@string/copy1</item>
+        <item>@string/copy2</item>
+        <item>@string/copy3</item>
+        <item>@string/copy4</item>
+        <item>@string/copy5</item>
+        <item>@string/copy6</item>
+    </string-array>
+
+</resources>

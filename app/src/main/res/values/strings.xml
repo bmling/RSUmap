@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">แผนที่ม.รังสิต</string>
+    <string name="title_activity_data">ข้อมูล</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="major_name">วิทยาลัย/คณะ</string>
+
+    <string name="action_settings"></string>
+
+    <string name="map_name">แผนที่</string>
+    <string name="data_name">ค้นหาข้อมูล</string>
+    <string name="build_name">อาคาร</string>
+    <string name="park_name">ลานจอดรถ</string>
+    <string name="food_name">อาหาร</string>
+    <string name="cafe_name">ร้านกาแฟ</string>
+    <string name="copy_name">ร้านถ่ายเอกสาร</string>
+    <string name="here_point">อื่นๆ</string>
+
+    <string name="science">วิทยาศาสตร์ - สุขภาพ</string>
+    <string name="engineer">วิศวกรรมศาสตร์ - เทคโนโลยี</string>
+    <string name="humanities">มนุษยศาสตร์ - สังคมศาสตร์</string>
+    <string name="business">เศรษฐกิจ – ธุรกิจ</string>
+    <string name="art">ศิลปะ - การออกแบบ</string>
+    <string name="etc">หลักสูตรออนไลน์/นานาชาติ/ป.โท-เอก</string>
+
+    ///---------Navigation---------///
+    --------//วิทยาศาสตร์ - สุขภาพ//---------
+    <string name="title_navigation_science_medicine">วิทยาลัยแพทยศาสตร์</string>
+    <string name="title_navigation_science_oriental">วิทยาลัยการแพทย์แผนตะวันออก</string>
+    <string name="title_navigation_science_dental">ทันตแพทยศาสตร์</string>
+    <string name="title_navigation_science_pharmacy">เภสัชศาสตร์</string>
+    <string name="title_navigation_science_nurse">พยาบาลศาสตร์</string>
+    <string name="title_navigation_science_medtech">เทคนิคการแพทย์</string>
+    <string name="title_navigation_science_therapy">กายภาพบำบัด</string>
+    <string name="title_navigation_science_optometry">ทัศนมาตรศาสตร์</string>
+    <string name="title_navigation_science_radiological">รังสีเทคนิค</string>
+    <string name="title_navigation_science_science">วิทยาศาสตร์</string>
+
+    ----------//มนุษยศาสตร์ - สังคมศาสตร์//-----------
+    <string name="title_navigation_humanities_communication_Art">วิทยาลัยนิเทศศาสตร์</string>
+    <string name="title_navigation_humanities_liberal_Arts">ศิลปศาสตร์</string>
+    <string name="title_navigation_humanities_law">นิติศาสตร์</string>
+    <string name="title_navigation_humanities_social_Innovation">วิทยาลัยนวัตกรรมสังคม</string>
+    <string name="title_navigation_humanities_public_governace">รัฐประศาสนศาสตร์</string>
+    <string name="title_navigation_humanities_idis">สถาบันการทูตและการต่างประเทศ</string>
+    <string name="title_navigation_humanities_education">คณะศึกษาศาสตร์</string>
+    <string name="title_navigation_humanities_reli">สถาบันภาษาอังกฤษ</string>
+    <string name="title_navigation_humanities_cja">สถาบันอาชญาวิทยาและการบริหารงานยุติธรรม</string>
+    <!--- <string name="title_navigation_humanities"></string>
+    <string name="title_navigation_humanities"></string>
+    <string name="title_navigation_humanities"></string>
+    <string name="title_navigation_humanities"></string>
+    <string name="title_navigation_humanities"></string>  -->
+
+    ------------// ศิลปะ - การออกแบบ //-----------
+    <string name="title_navigation_art_Music">วิทยาลัยดนตรี</string>
+    <string name="title_navigation_art_Architecture">สถาปัตยกรรมศาสตร์</string>
+    <string name="title_navigation_art_Art_and_Design">ศิลปะและการออกแบบ</string>
+    <string name="title_navigation_art_Digital_Art">ดิจิทัลอาร์ต</string>
+
+    ----------// วิศวกรรมศาสตร์ - เทคโนโลยี //------------
+    <string name="title_navigation_Engineer">วิทยาลัยวิศวกรรมศาสตร์</string>
+    <string name="title_navigation_Engineer_IT">วิทยาลัยเทคโนโลยีสารสนเทศและการสื่อสาร</string>
+    <string name="title_navigation_Engineer_agri">คณะนวัตกรรมเกษตร</string>
+    <string name="title_navigation_Engineer_biot">คณะเทคโนโลยีชีวภาพ</string>
+    <string name="title_navigation_Engineer_food">คณะเทคโนโลยีอาหาร</string>
+    <string name="title_navigation_Engineer_pilot">สถาบันการบิน</string>
+
+    ----------// เศรษฐกิจ – ธุรกิจ //------------
+    <string name="title_navigation_business_hospital">วิทยาลัยการท่องเที่ยวและการบริการ</string>
+    <string name="title_navigation_business_bba">คณะบริหารธุรกิจ</string>
+    <string name="title_navigation_business_account">คณะบัญชี</string>
+    <string name="title_navigation_business_economic">คณะเศรษฐศาสตร์</string>
+
+    ------------//หลักสูตรออนไลน์/นานาชาติ/ป.โท-เอก//-----------
+    <string name="title_navigation_Etc_graduate">บัณฑิตวิทยาลัย</string>
+    <string name="title_navigation_Etc_international">วิทยาลัยนานาชาติ</string>
+    <string name="title_navigation_Etc_ICC">วิทยาลัยนานาชาติจีน</string>
+    <string name="title_navigation_Etc_Cyber">RSU CYBER UNIVERSITY</string>
+
+
+    <string name="title_activity_maps">แผนที่</string>
+
+    <string name="title_build1">ตึก 1</string>
+    <string name="snippet_build1">อาคารอาทิตย์ อุไรรัตน์</string>
+    <string name="title_build2">ตึก 2</string>
+    <string name="snippet_build2">อาคารประสิทธิรัตน์</string>
+    <string name="title_build3">ตึก 3</string>
+    <string name="snippet_build3">อาคารอุไรรัตน์</string>
+    <string name="title_build4">ตึก 4</string>
+    <string name="snippet_build4">อาคารวิทยาศาสตร์</string>
+    <string name="title_build4_1">ตึก 4/1</string>
+    <string name="snippet_build4_1">อาคารวิทยาศาสตร์</string>
+    <string name="title_build4_2">ตึก 4/2</string>
+    <string name="snippet_build4_2">อาคารวิทยาศาสตร์</string>
+    <string name="title_build5">ตึก 5</string>
+    <string name="snippet_build5">อาคารวิษณุรัตน์</string>
+    <string name="title_build6">ตึก 6</string>
+    <string name="snippet_build6">อาคาร Student Center</string>
+    <string name="title_build7">ตึก 7</string>
+    <string name="snippet_build7">อาคารหอสมุด</string>
+    <string name="title_build8">ตึก 8</string>
+    <string name="snippet_build8">อาคารคุณหญิงพัฒนา</string>
+    <string name="title_build9">ตึก 9</string>
+    <string name="snippet_build9">อาคารประสิทธิ์พัฒนา</string>
+    <string name="title_build10">ตึก 10</string>
+    <string name="snippet_build10">วิทยาลัยดนตรี/อาคารจอดรถ</string>
+    <string name="title_build11">ตึก 11</string>
+    <string name="snippet_build11">อาคารรัตนคุณากร</string>
+    <string name="title_build12">ตึก 12</string>
+    <string name="snippet_build12">อาคารรังสิตประยูรศักดิ์</string>
+    <string name="title_build12_1">ตึก 12/1</string>
+    <string name="snippet_build12_1">อาคารรังสิตประยูรศักดิ์ 2</string>
+    <string name="title_build13">ตึก 13</string>
+    <string name="snippet_build13">อาคารสำนักงานอาคารและสิ่งแวดล้อม</string>
+    <string name="title_build14">ตึก 14</string>
+    <string name="snippet_build14">อาคารนันทนาการ</string>
+    <string name="title_build15">ตึก 15</string>
+    <string name="snippet_build15">อาคารดิจิตอล มัลติมีเดีย คอมเพล็กซ์</string>
+    <string name="title_build16">ตึก 16</string>
+    <string name="snippet_build16">อาคาร Sun Herb Thai Chinese manufacturing</string>
+    <string name="title_buildPatana">หอศิลป์พัฒนา</string>
+    <string name="snippet_buildPatana"></string>
+    <string name="title_buildGuan">ตึก 18</string>
+    <string name="snippet_buildGuan">ศาลากวนอิม</string>
+    <string name="title_buildMusicHall">ตึก 17</string>
+    <string name="snippet_buildMusicHall">ศาลาดนตรีสุริยเทพ</string>
+
+    <string name="title_sunshine">องค์สุริยเทพ</string>
+
+    ----------------------------------------------------
+
+    <string name="title_park15">ลานจอดรถ (หลังตึก15)</string>
+    <string name="title_parksun">ลานจอดรถ (องค์สุริยเทพ)</string>
+    <string name="title_park12">ลานจอดรถ (หน้าตึก12)</string>
+
+    ----------------------------------------------------
+
+    <string name="title_food">โรงอาหารหอพัก</string>
+    <string name="title_food10">โรงอาหาร	(หน้าตึกดนตรี)</string>
+
+    ----------------------------------------------------
+
+    <string name="title_sp">S&amp;P</string>
+    <string name="title_book">ศูนย์หนังสือ</string>
+    <string name="title_fitness">Fitness Center</string>
+    <string name="title_pool">สระว่ายน้ำ มหาวิทยาลัยรังสิต</string>
+    <string name="title_bankbbl">ธนาคารกรุงเทพ</string>
+    <string name="title_bankscb">ธนาคารไทยพาณิชย์</string>
+    <string name="title_post">ไปรษณีย์</string>
+    <string name="title_ustudio">UStudio</string>
+
+    ----------------------------------------------------
+
+    <string name="copy1">ร้านถ่ายเอกสารตึก3</string>
+    <string name="copy2">ร้านถ่ายเอกสารตึก4</string>
+    <string name="copy3">ร้านถ่ายเอกสารตึก5</string>
+    <string name="copy4">ร้านถ่ายเอกสารตึก7 อาคารหอสมุด (ชั้น 2)</string>
+    <string name="copy5">ร้านถ่ายเอกสารตึก9 (ชั้น 2)</string>
+    <string name="copy6">ร้านถ่ายเอกสารตึก15</string>
+
+    ------------------------------------------------------
+
+    <string name="cafe1">ร้านกาแฟตึก1</string>
+
+    <string name="cafe2">ร้านกาแฟตึก2</string>
+
+    <string name="cafe3">ร้านกาแฟตึก3</string>
+
+    <string name="cafe4">ร้านกาแฟตึก4</string>
+
+    <string name="cafe5">ร้านกาแฟตึก7 (ชั้น 2)</string>
+
+    <string name="cafe6">ร้านกาแฟตึก8</string>
+
+    <string name="cafe7">ร้านกาแฟตึก9</string>
+
+    <string name="cafe8">ร้านกาแฟตึก11 (ชั้น 14)</string>
+
+    <string name="cafe9">ร้านกาแฟตึก12/1</string>
+
+    <string name="cafe10">ร้านกาแฟตึก15 (ชั้น 2)</string>
+
+
+    <!--<string name="title_build">ตีก </string>
+    <string name="snippet_build"></string>
+    <string name="title_build">ตีก </string>
+    <string name="snippet_build"></string>-->
+
+
+</resources>

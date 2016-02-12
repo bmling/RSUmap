@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    ----------//หลักสูตรออนไลน์/นานาชาติ/ป.โท-เอก//----------
+    <string-array name="array_etc_title">
+        <item>@string/title_navigation_Etc_graduate</item>
+        <item>@string/title_navigation_Etc_international</item>
+        <item>@string/title_navigation_Etc_ICC</item>
+        <item>@string/title_navigation_Etc_Cyber</item>
+    </string-array>
+
+        //เว็บไซต์ของคณะ
+        <string-array name="array_etc_website">
+            <item>http://grad.rsu.ac.th/</item>
+            <item>http://ric.rsu.ac.th/</item>
+            <item>http://www.rsuicc.com/</item>
+            <item>http://www.rsu-cyberu.com/</item>
+        </string-array>
+
+
+        //สาขาของแต่ละคณะ รายละเอียดคณะ
+    <string-array name="array_etc_details">
+        <item>
+ติดต่อเรา
+อาคาร 11 (อาคารรัตนคุณากร)  ชั้น 2  ห้อง 206  มหาวิทยาลัยรังสิต
+โทรศัพท์ : 0 2997 2222 ต่อ 4001-4005, 4024-4026 โทรสาร : 0 2997 2222 ต่อ 4000
+http://grad.rsu.ac.th
+e-mail : grad@rsu.ac.th
+</item>
+        <item>
+ติดต่อเรา
+Rangsit University
+International College
+Ruttanakhunakorn Bld. 2nd floor
+Phone: +66-(0)-2-997-2200 ext. 4012-4020
+Fax : +66-(0)-2-997-2200 ext. 4016
+E-mail : inter@rsu.ac.th
+</item>
+        <item>
+ติดต่อเรา
+            International Chinese College of  Rangsit University
+            11th Building-1201  Rangsit University
+</item>
+        <item>
+ติดต่อเรา
+            สำนักงาน RSU Cyber University อาคารวิษณุรัตน์ (ตึก 5) ชั้น 2 ห้อง 236
+มหาวิทยาลัยรังสิต
+            โทร : 02-9972222-30 ต่อ 3242, 3245
+            089-896-0462 คุณการุณ ทองชิต
+            แฟกซ์ : 02-9972222-30 ต่อ 3243
+            e-mail : karoon.t@rsu.ac.th
+</item>
+
+    </string-array>
+
+</resources>

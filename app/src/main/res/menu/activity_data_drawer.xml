@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_science" android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/science" ></item>
+        <item android:id="@+id/nav_engineering" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/engineer" />
+        <item android:id="@+id/nav_humanities" android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="@string/humanities" />
+        <item android:id="@+id/nav_business" android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/business" />
+        <item android:id="@+id/nav_art" android:icon="@drawable/logorsu"
+            android:title="@string/art" ></item>
+        <item android:id="@+id/nav_international" android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/etc" />
+    </group>
+
+</menu>
